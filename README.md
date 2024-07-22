@@ -3,8 +3,8 @@ A better version of the original rubberducky from @dbisu!
 
 ## How to use this:
 1. Follow the original [FULL Install Instructions](https://github.com/dbisu/pico-ducky) until the 4th step.
-2. Then clone this repository/download files as zip and unzip.
-3. Then delete all previous files on the `CIRCUITPY` root.
+2. Clone this repository/download files as zip and unzip.
+3. Delete all previous files on the `CIRCUITPY` root.
 4. Copy all extracted files from this repository onto `CIRCUITPY` root.
 5. Create your own script in `code.py` and have fun!
 
