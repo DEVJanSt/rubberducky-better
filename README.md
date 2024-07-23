@@ -9,6 +9,9 @@ A better version of the original rubberducky from @dbisu!
 5. Create your own script in `code.py` and have fun!
 
 
+
+![pipico](https://github.com/user-attachments/assets/ef2d429c-71fd-42a9-8a83-74afa7fec4df)
+
 ## How to add a new script without running current script:
 1. Press and hold the white button on your Pi Pico
 2. The Pi Pico should pop up as `RPI-RP2`
