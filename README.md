@@ -1,5 +1,5 @@
 # Rubberducky-Better
-A better version of the original rubberducky from @dbisu!
+A better version of the original rubberducky from @dbisu! The rubber ducky with mouse input and with python control structure (if; for; while; ...).
 
 ## How to use this:
 1. Follow the original [FULL Install Instructions](https://github.com/dbisu/pico-ducky) until the 4th step.
